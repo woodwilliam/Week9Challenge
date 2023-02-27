@@ -11,6 +11,7 @@ enter 'npm i' into command line
 ## Usage:
 See Video!
 
+https://user-images.githubusercontent.com/63683722/221446752-a67a78e0-82db-4094-ad9d-fd9dcfd822a1.mp4
 
 
 ## Credits:
